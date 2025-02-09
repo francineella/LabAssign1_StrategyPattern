@@ -17,6 +17,9 @@ B. AttackStrategy
 3. SwingSword
 
 # Refactor the existing codes and provide the UML Diagram:
+
+```
+  
   public class Character {
       private String type;
       public Character(String type) {
@@ -43,4 +46,7 @@ B. AttackStrategy
        }
      }
   }
+
+```
+
 ![StrategyPattern_UML Class Diagram](https://github.com/user-attachments/assets/63c4e691-7bd8-4725-adb6-b742b2f1777c)
