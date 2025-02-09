@@ -10,6 +10,7 @@ A. DefenseStrategy
 1. Shield
 2. Dodge
 3. CreateMagic
+
 B. AttackStrategy
 1. CastSpell
 2. ShootArrow
